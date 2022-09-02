@@ -2,10 +2,14 @@ body {
     font-family: 'IBM Plex Sans', sans-serif;
 }
 
+div {
+    justify-content: center;
+    justify-items: center;
+}
+
 h3 {
    
     font-weight: 100;
-    justify-content: center;
-    justify-items: center;
+   
     text-align: center;
 }
